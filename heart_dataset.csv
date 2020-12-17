@@ -1,0 +1,16 @@
+﻿Time (m),Game Types,Diastolic blood pressure (mmHg)
+0,Violent,0
+0,Non-Violent,0
+0,Control,0
+15,Violent,3
+15,Non-Violent,0.3
+15,Control,-0.2
+30,Violent,5.5
+30,Non-Violent,0.1
+30,Control,-0.3
+45,Violent,5.8
+45,Non-Violent,1.9
+45,Control,0.4
+60,Violent,7.9
+60,Non-Violent,3.9
+60,Control,2.3
